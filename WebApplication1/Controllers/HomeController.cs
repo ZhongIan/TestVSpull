@@ -53,7 +53,7 @@ namespace WebApplication1.Controllers
         }
 
         
-        public ActionResult Contact()
+        public ActionResult Service()
         {
             ViewBag.Message = "Your contact page.";
 

@@ -279,6 +279,15 @@
     <Content Include="Content\img\bg-img\sr7.jpg" />
     <Content Include="Content\img\bg-img\sr8.jpg" />
     <Content Include="Content\img\bg-img\sr9.jpg" />
+    <Content Include="Content\img\bg-img\us1.jpg" />
+    <Content Include="Content\img\bg-img\us10.jpg" />
+    <Content Include="Content\img\bg-img\us2.jpg" />
+    <Content Include="Content\img\bg-img\us3.jpg" />
+    <Content Include="Content\img\bg-img\us4.jpg" />
+    <Content Include="Content\img\bg-img\us5.jpg" />
+    <Content Include="Content\img\bg-img\us7.jpg" />
+    <Content Include="Content\img\bg-img\us8.jpg" />
+    <Content Include="Content\img\bg-img\us9.jpg" />
     <Content Include="Content\img\blog-img\1.jpg" />
     <Content Include="Content\img\blog-img\2.jpg" />
     <Content Include="Content\img\blog-img\3.jpg" />
@@ -350,7 +359,7 @@
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\Service.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\_LayoutPage1.cshtml" />
     <Content Include="Views\Fontend\buypoint.cshtml" />

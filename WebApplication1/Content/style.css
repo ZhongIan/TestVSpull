@@ -2064,6 +2064,12 @@ input:focus, textarea:focus {
     position: relative;
     overflow: hidden;
 }
+.salesitempic2 {
+    width:348px;
+    height: 300px;
+    position: relative;
+    overflow: hidden;
+}
 
 .img-style6 {
     width: 100%;
@@ -2330,9 +2336,9 @@ table td {
 /*20201120 new*/
 
 .picautosize {
-  padding-top: 100%;
-  position: relative;
-  overflow: hidden;
+    padding-top: 100%;
+    position: relative;
+    overflow: hidden;
 }
 
 .statussytle {
@@ -2341,6 +2347,10 @@ table td {
 
 .redstatus {
   color: #db3939;
+}
+
+.successstatus {
+    color: #ffa943;
 }
 
 .bluestatus {
@@ -2510,7 +2520,6 @@ table td {
 
 .nobord {
     border-left: 0px solid #c16315;
-    margin-top: -77px;
 }
 .inputadd {
     z-index: 9999;
@@ -2524,8 +2533,19 @@ table td {
 .inputadd3, .current {
     line-height: 60px;
 }
+.form-control span {
+    line-height: 48px;
+}
 .mb0{
     margin-bottom:0;
+}
+.checked {
+    color: #ffa943;
+    font-size: 14px;
+}
+.unchecked {
+    color: #e9e9e9;
+    font-size: 14px;
 }
 /*Cindy*/
 /*James*/
